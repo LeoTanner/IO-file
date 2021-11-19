@@ -14,7 +14,6 @@ public class Animal
         this.animalLoud = animalLoud;
     }
 
-
     public String getName() {
         return name;
     }
