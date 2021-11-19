@@ -10,7 +10,6 @@ class TestAnimalTest {
    //dann plugin setup maven surefire suchen,
       // org darüber eingeben und version 2.2.0 normal
 
-
    void setUp() {
       a = 1;
       b = false;
