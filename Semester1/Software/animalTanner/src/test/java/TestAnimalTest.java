@@ -11,7 +11,7 @@ class TestAnimalTest {
    Animal Shelly;
 
    @org.junit.jupiter.api.BeforeEach
-   //in der pom rechtclick dependency junit jupiter 5.8.1
+   //in der pom rechtclick dependency junit jupiter 5.8.engine
    //dann plugin setup maven surefire suchen,
       // org darüber eingeben und version 2.2.0 normal
 
